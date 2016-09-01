@@ -1,0 +1,6 @@
+C:\Users\Genilton Souza\Documents\Visual Studio 2015\Projects\VP200Server\VP200Server\VP200Server\bin\Debug\VP200Server.exe.config
+C:\Users\Genilton Souza\Documents\Visual Studio 2015\Projects\VP200Server\VP200Server\VP200Server\bin\Debug\VP200Server.exe
+C:\Users\Genilton Souza\Documents\Visual Studio 2015\Projects\VP200Server\VP200Server\VP200Server\bin\Debug\VP200Server.pdb
+C:\Users\Genilton Souza\Documents\Visual Studio 2015\Projects\VP200Server\VP200Server\VP200Server\obj\Debug\VP200Server.csprojResolveAssemblyReference.cache
+C:\Users\Genilton Souza\Documents\Visual Studio 2015\Projects\VP200Server\VP200Server\VP200Server\obj\Debug\VP200Server.exe
+C:\Users\Genilton Souza\Documents\Visual Studio 2015\Projects\VP200Server\VP200Server\VP200Server\obj\Debug\VP200Server.pdb
